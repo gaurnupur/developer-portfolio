@@ -1,6 +1,6 @@
 export const personalData = {
   name: "NUPUR GAUR",
-  profile: '/profile.png',
+  profile: '/myprofile.png',
   designation: "Software Developer",
   description: "My name is NUPUR GAUR. I am a passionate and dedicated Full Stack Developer with hands-on experience in building real-time projects. I have completed internships where I worked on live applications and gained practical industry experience. My expertise spans across the MERN stack, and I have a strong foundation in Data Structures and Algorithms (DSA). I specialize in web development with proficiency in modern JavaScript frameworks. Additionally, I have extensive knowledge in Artificial Intelligence, particularly in Generative AI and Machine Learning. I am a quick learner with a self-driven attitude, always eager to explore emerging technologies and solve complex problems. I am actively seeking opportunities that align with my technical skills and passion for innovation.",
   email: 'gaurnupur@gmail.com',
